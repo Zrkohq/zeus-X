@@ -233,8 +233,7 @@ zeus-X/
 │
 ├── zeus-x.py
 ├── version.txt
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
