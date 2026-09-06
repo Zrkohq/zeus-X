@@ -29,11 +29,9 @@
 
 Au lieu de chercher chaque service séparément, ZEUS-X regroupe **90 outils et ressources** dans une interface terminal unique.
 
-L'objectif est simple :
+> **Trouver le bon outil, le plus rapidement possible.**
 
-> **trouver le bon outil, le plus rapidement possible.**
-
-ZEUS-X est particulièrement optimisé pour **Windows**, avec navigation au clavier, support de la souris, animations terminal et ouverture automatique des ressources dans le navigateur.
+ZEUS-X est principalement optimisé pour **Windows**, avec navigation au clavier, support de la souris, animations terminal et ouverture automatique des ressources dans le navigateur.
 
 ---
 
@@ -149,8 +147,6 @@ python zeus-x.py
 
 ## 🎮 Navigation
 
-ZEUS-X peut être entièrement utilisé au clavier.
-
 |     Touche    | Action                |
 | :-----------: | :-------------------- |
 |   `1` → `9`   | ouvrir un outil       |
@@ -186,7 +182,7 @@ Le système continue normalement si :
 
 ## 🖥️ Windows
 
-ZEUS-X utilise certaines fonctionnalités natives de Windows pour améliorer l'expérience terminal.
+ZEUS-X utilise certaines fonctionnalités natives de Windows afin d'améliorer l'expérience terminal.
 
 Cela permet notamment :
 
@@ -233,8 +229,35 @@ zeus-X/
 │
 ├── zeus-x.py
 ├── version.txt
+├── Dons.txt
 └── README.md
 ```
+
+---
+
+# 💜 Soutenir ZEUS-X
+
+Si ZEUS-X vous est utile et que vous souhaitez soutenir le développement du projet, vous pouvez effectuer un don.
+
+Les dons en **cryptomonnaies** sont directement disponibles dans le fichier [`Dons.txt`](Dons.txt).
+
+### 🪙 Cryptomonnaies acceptées
+
+| Crypto  | Adresse                                        |
+| :------ | :--------------------------------------------- |
+| **LTC** | `LeNMihZGAp3EHnHeciMPBu3UfuCrwVhFfG`           |
+| **BTC** | `bc1qlquheug3l39xzgutgujqvxqmsjfx34m5pqhq5c`   |
+| **ETH** | `0x96c0EFc0f13201bF62be565A3B49277712D239A9`   |
+| **SOL** | `5vRiGYLrdzmvAjLcJfcwwUDBH6e16ayKaDjLCFy8MVZb` |
+
+### 💳 Autres moyens de paiement
+
+Vous souhaitez faire un don avec **PaySafeCard**, ou avec un autre moyen de paiement ?
+
+Contactez simplement **`5n8z` sur Discord** afin de voir les possibilités disponibles.
+
+> Merci à toutes les personnes qui soutiennent ZEUS-X ❤️
+> Chaque don contribue directement au temps consacré au développement et aux futures améliorations du projet.
 
 ---
 
